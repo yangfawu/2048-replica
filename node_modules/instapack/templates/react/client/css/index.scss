@@ -1,0 +1,14 @@
+// Be sure to @import or define your custom variable values before including Bootstrap CSS
+@import "bootstrap";
+
+html {
+    height: 100vh;
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+// if you need a sidebar, use https://getbootstrap.com/docs/4.4/examples/dashboard/ or https://adminlte.io/
